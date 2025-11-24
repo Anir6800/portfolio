@@ -2,7 +2,7 @@
 
 A modern, interactive portfolio website showcasing AI/ML expertise with stunning animations and dynamic visual effects.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/030305/00d8ff?text=Portfolio+Preview)
+https://aniruddh-rathod.netlify.app/
 
 ## ✨ Features
 
