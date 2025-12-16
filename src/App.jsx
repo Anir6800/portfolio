@@ -408,49 +408,71 @@ const SKILLS = [
 ];
 
 const PROJECTS = [
-{
-title: "Agami AI",
-desc: "Advanced AI project focusing on predictive analytics and neural processing.",
-tech: ["Python", "Deep Learning", "AI"],
-links: [
-{ url: "https://github.com/Anir6800/AgamiAI", type: "Repo 1" },
-{ url: "https://github.com/Anir6800/Agami_AI", type: "Repo 2" }
-]
-},
-{
-title: "Machi Magic",
-desc: "Innovative solution integrating machine learning for smart automation.",
-tech: ["ML", "Automation", "Python"],
-links: [
-{ url: "https://github.com/Anir6800/MachiMagic", type: "GitHub" }
-]
-},
-{
-title: "Plannerium",
-desc: "Intelligent scheduling assistant utilizing data structures for optimization.",
-tech: ["React", "Algorithms", "Web"],
-links: [
-{ url: "https://github.com/Anir6800/Plannerium", type: "GitHub" }
-]
-},
-{
-title: "Impector",
-desc: "NASA Space Apps Challenge entry. Space data visualization and analysis tool.",
-tech: ["Data Science", "Visualization", "Space Apps"],
-links: [
-{ url: "https://github.com/Anir6800/Impector-2025", type: "GitHub" }
-]
-},
-{
-title: "OrbitTrack",
-desc: "Satellite tracking and orbital mechanics simulation software.",
-tech: ["Physics", "Simulation", "Tracking"],
-links: [
-{ url: "https://github.com/Anir6800/OrbitTrack", type: "Core" },
-{ url: "https://github.com/Anir6800/OrbiTrack_W", type: "Web" }
-]
-}
+  {
+    title: "Agami AI",
+    desc: "AI-powered career guidance and interactive learning platform providing personalized roadmaps, quizzes, and mentorship using Firebase and Google Gemini API.",
+    tech: ["HTML", "CSS", "JavaScript", "Firebase", "Gemini API"],
+    links: [
+      { url: "https://github.com/Anir6800/agami", type: "GitHub" }
+    ]
+  },
+
+  {
+    title: "I.S.H.A – Integrated Smart Helper Algorithm",
+    desc: "A rule-based intelligent assistant system powered by cloud APIs, designed to automate decision-making and deliver context-aware responses without machine learning dependency.",
+    tech: ["Rule-Based AI", "Cloud APIs", "Automation"],
+    links: [
+      { url: "https://github.com/Anir6800/I.S.H.A-Integrated-Smart-Helper-Algorithm-", type: "GitHub" }
+    ]
+  },
+
+  {
+    title: "Plannerium",
+    desc: "An intelligent scheduling and planning assistant leveraging data structures and algorithms with a modern React-based interface.",
+    tech: ["React", "JavaScript", "Algorithms"],
+    links: [
+      { url: "https://github.com/Anir6800/Plannerium", type: "GitHub" }
+    ]
+  },
+
+  {
+    title: "Airtype",
+    desc: "A computer-vision–based typing system that tracks hand movements using a camera, captures gestures in real time, and converts physical actions into keyboard inputs.",
+    tech: ["Computer Vision", "JavaScript", "Gesture Recognition"],
+    links: [
+      { url: "https://github.com/Anir6800/Airtype", type: "GitHub" }
+    ]
+  },
+
+  {
+    title: "machiwork",
+    desc: "Frontend-focused web project emphasizing UI structure, layout experimentation, and responsive design principles.",
+    tech: ["HTML", "CSS"],
+    links: [
+      { url: "https://github.com/Anir6800/machiwork", type: "GitHub" }
+    ]
+  },
+
+  {
+    title: "Meteor Madness (NASA Space Apps 2025)",
+    desc: "NASA Space Apps Challenge project that visualizes meteor activity using live NASA APIs, static scientific datasets, and simulated impact scenarios.",
+    tech: ["JavaScript", "NASA APIs", "Data Visualization", "Simulation"],
+    links: [
+      { url: "https://github.com/Anir6800/Nasa-Space-App-2025/tree/main/meteor-madness", type: "GitHub" }
+    ]
+  },
+
+  {
+    title: "OrbitTrack",
+    desc: "A complete satellite tracking and orbital mechanics system combining a physics-based core engine with an interactive web visualization layer.",
+    tech: ["Orbital Mechanics", "Physics Simulation", "HTML", "CSS", "JavaScript"],
+    links: [
+      { url: "https://github.com/Anir6800/OrbitTrack", type: "Core Engine" },
+      { url: "https://github.com/Anir6800/OrbiTrack_W", type: "Web Interface" }
+    ]
+  }
 ];
+
 
 const SOCIALS = [
 { icon: <Mail size={20} />, label: "Email", href: "mailto:anir6800@gmail.com", value: "anir6800@gmail.com" },
